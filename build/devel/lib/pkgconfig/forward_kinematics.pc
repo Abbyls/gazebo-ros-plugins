@@ -1,8 +1,0 @@
-prefix=/home/p285253/ur5e_plugins/src/forward_kinematics/build/devel
-
-Name: forward_kinematics
-Description: Description of forward_kinematics
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/p285253/ur5e_plugins/src/forward_kinematics/build/devel/lib 
-Requires: 
