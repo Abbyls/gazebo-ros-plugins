@@ -17,6 +17,7 @@ then, you will see the plugin has been installed under the directory: ~/ur5e_plu
 
 ## Usage
 Before you launch your gazebo world:\
+
 1.
 ```
 export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:~/ur5e_plugins/devel/lib
