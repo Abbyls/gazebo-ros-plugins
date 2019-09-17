@@ -22,9 +22,10 @@ Before you launch your gazebo world:\
 export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:~/ur5e_plugins/devel/lib
 ```
 this is a temporary setting, which is available in this terminal, if you want to use it frequently, add it into ~/.bashrc\
-2. add this:\
-	<plugin name="eePose_plugin" filename="libeePose_plugin.so"/>\
-  into your gazebo model file\
+2. add this into your gazebo model file:
+```
+<plugin name="eePose_plugin" filename="libeePose_plugin.so"/>
+```
 3. launch your gazebo file
 
 
